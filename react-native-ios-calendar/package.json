@@ -1,11 +1,15 @@
 {
   "name": "react-native-ios-calendar",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native IOS Native Module Learning",
   "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1uokun/Objective-C-Programming.git"
+  },
+  "author": "Rebecca 1uokun <1498710037@qq.com> (https://github.com/1uokun)",
   "license": "ISC"
 }
