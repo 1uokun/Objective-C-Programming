@@ -16,4 +16,12 @@ RCT_REMAP_METHOD(multiply,
   resolve(result);
 }
 
+RCT_REMAP_METHOD(open,
+                 date:(NSString *)date
+                 callback:(RCTResponseSenderBlock)callback)
+{
+    NSArray *events = @[@123, @"b", @"c"];
+    callback(@[[NSNull null], events]);
+}
+
 @end
