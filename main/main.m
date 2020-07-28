@@ -10,17 +10,5 @@
 
 @implementation main
 
-int main2()
-{
-    @autoreleasepool {
-
-        
-    }
-    return 0;
-}
-
-- (NSUInteger)length{
-    NSLog(@"@%", length);
-}
 
 @end

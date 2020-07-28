@@ -9,5 +9,9 @@
 #import <Foundation/Foundation.h>
 
 @interface Learning : NSObject
+{
+    float ff;
+    int ii;
+}
 
 @end

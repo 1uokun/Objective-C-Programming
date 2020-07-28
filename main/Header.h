@@ -1,5 +1,5 @@
 //
-//  main.h
+//  Header.h
 //  main
 //
 //  Created by A on 2020/7/24.
@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface main : NSObject
+@interface Header : NSObject
 
 @end
