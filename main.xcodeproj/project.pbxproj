@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23D0D53424D114ED003DDB0B /* PropertySon.m in Sources */ = {isa = PBXBuildFile; fileRef = 23D0D53324D114ED003DDB0B /* PropertySon.m */; };
 		23DB679A24CFD4F90064F32B /* Property.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DB679924CFD4F90064F32B /* Property.m */; };
 		23DFAE0324CED7980067702A /* Header.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFAE0224CED7980067702A /* Header.m */; };
 		23DFAE0624CED8FC0067702A /* FirstClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFAE0524CED8FC0067702A /* FirstClass.m */; };
@@ -30,6 +31,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		23D0D53324D114ED003DDB0B /* PropertySon.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PropertySon.m; sourceTree = "<group>"; };
+		23D0D53624D11515003DDB0B /* PropertySon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PropertySon.h; sourceTree = "<group>"; };
 		23DB679924CFD4F90064F32B /* Property.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Property.m; sourceTree = "<group>"; };
 		23DB679B24CFD5060064F32B /* Property.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Property.h; sourceTree = "<group>"; };
 		23DFAE0224CED7980067702A /* Header.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Header.m; sourceTree = "<group>"; };
@@ -85,6 +88,8 @@
 				23DFAE0524CED8FC0067702A /* FirstClass.m */,
 				23DB679B24CFD5060064F32B /* Property.h */,
 				23DB679924CFD4F90064F32B /* Property.m */,
+				23D0D53624D11515003DDB0B /* PropertySon.h */,
+				23D0D53324D114ED003DDB0B /* PropertySon.m */,
 			);
 			path = main;
 			sourceTree = "<group>";
@@ -149,6 +154,7 @@
 				23DFAE0324CED7980067702A /* Header.m in Sources */,
 				23DFAE0624CED8FC0067702A /* FirstClass.m in Sources */,
 				23DB679A24CFD4F90064F32B /* Property.m in Sources */,
+				23D0D53424D114ED003DDB0B /* PropertySon.m in Sources */,
 				C20A0CFC24CACDD800252F64 /* Pointer.m in Sources */,
 				C20A0CF124CACD4D00252F64 /* main.m in Sources */,
 				C20A0CFA24CACD9000252F64 /* Learning.m in Sources */,

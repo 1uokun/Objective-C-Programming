@@ -17,7 +17,9 @@
 
 - (int) getAge
 {
-    return [self age];
+//    return [self age];
+    // same as
+    return self.age;
 }
 
 - (void) setAge:(int)age
@@ -30,7 +32,8 @@
 int main(){
     @autoreleasepool {
         FirstClass *class = [[FirstClass alloc] init];
-        [class setAge:25];
+//        [class setAge:25];
+        class.age = 26;
         NSLog(@"get age: %d", [class getAge]);
     }
     return 1;
